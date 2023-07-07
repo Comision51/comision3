@@ -1,0 +1,19 @@
+html{
+    font-size: 62.5%;
+}
+
+body{
+    background-image: url("../imagenes/fond.jpg");
+    background-size: cover;
+    
+    
+}
+
+h1{
+    font-size:1.8rem;
+    color: rgb(29, 86, 165);
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik Pixels', cursive;
+    
+}
+
